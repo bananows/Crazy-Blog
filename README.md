@@ -13,6 +13,6 @@ Mo, 16.12.2020 : Heute haben wir uns gemeinsam auf Youtube Videos rund ums Thema
 
 11.01.2021 : Da wir keine cloudbasierte Plattform gefunden haben, welche uns die Programmierung eines neuronalen Netzwerks mit einem vertretbaren Zeitaufwand ermöglicht hat, haben wir uns, da wir auf das partnergebundene Distanzarbeiten angewiesen sind, dagegenentschieden, ein neuronales Netzwerk zu programmieren. Aktuell sind wir noch dabei, eine andere Projektidee zu finden, welche unter den Coronabedingungen zu erarbeiten ist.
 
-a
+
 
 
