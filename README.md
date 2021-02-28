@@ -14,6 +14,20 @@ Mo, 16.12.2020 : Heute haben wir uns gemeinsam auf Youtube Videos rund ums Thema
 11.01.2021 : Da wir keine cloudbasierte Plattform gefunden haben, welche uns die Programmierung eines neuronalen Netzwerks mit einem vertretbaren Zeitaufwand ermöglicht hat, haben wir uns, da wir auf das partnergebundene Distanzarbeiten angewiesen sind, dagegenentschieden, ein neuronales Netzwerk zu programmieren. Aktuell sind wir noch dabei, eine andere Projektidee zu finden, welche unter den Coronabedingungen zu erarbeiten ist.
 
 
+22.01.2021 : Heute haben wir anhand von einigen Videos und der Website von Greenfot versucht, das Programm zu verstehen. Dabei hatten wir leider einige Verstädnis- und Orientierungsprobleme mit dem Programm aufgrund der neuen Benutzeroberfläche, die sich stark von der von Snap! unterscheidet. Zum Ende unserer Arbeitseinheit hin haben wir jedoch immer mehr verstanden.
+
+
+28.01.2021 : Heute haben wir uns überlegt ein Labiyrinthspiel mit einer KI zu kombinieren. Dazu haben wir uns ausgedacht, dass eine KI die Figur unseres Spiel mit einem Lenkrad steuern könnte und durch das Labiyrinth führen könnte. Dazu haben wir auch schonmal unser Lenkrad aus Pappe gebastelt. 
+
+
+5.02.2021 : Bjarne hat heute nach längerer Recherche ein Googletool gefunden, mit welchem man eine künstliche Intelligenz mit Bildern oder Bewegungen trainieren kann. Dazu haben wir uns anschließend einige Tutorials angesehen und uns die Website zusammen durchgelesen. Das Tool zur Aufsetzung und zum Training einer KI ist kostenlos und auf der Website benutzbar.
+
+
+
+
+
+
+
 
 
 
