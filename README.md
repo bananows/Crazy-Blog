@@ -24,6 +24,13 @@ Mo, 16.12.2020 : Heute haben wir uns gemeinsam auf Youtube Videos rund ums Thema
 
 
 
+11.02.2021 : Heute haben wir zusammen zum ersten Mal selbst das Tool benutzt und eine KI trainiert. Dazu haben wir in die Kamera sechs selbstgemalte Bilder hintereinander gehalten und diese in ca. 200 einzelne Positionen gebracht, sodass die Erkennung später einfacher fällt. Die KI konnte im Anschluss die Bilder immer richtig und mit einer Sicherheit von 95% unterscheiden. 
+
+
+20.02.2021 : Heute haben wir uns überlegt, wie wir die Steuerung unserer Figur mit dem Lenkrand verbinden können. Dazu haben wir uns ausgedacht, dass wir an den vier Seiten des Lenkrands vier verschiedene Farben raufkleben und anschließend die KI diese Farben und somit die Positon des Lenkrands erkennen lassen können. Die Kamera erfasst hierbei immer die obere Seite des Lenkrads. Jeder bestimmten Farbe ist eine bestimmte Bewegung zugeordnet.
+
+
+
 
 
 
