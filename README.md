@@ -29,6 +29,8 @@ Mo, 16.12.2020 : Heute haben wir uns gemeinsam auf Youtube Videos rund ums Thema
 
 20.02.2021 : Heute haben wir uns überlegt, wie wir die Steuerung unserer Figur mit dem Lenkrand verbinden können. Dazu haben wir uns ausgedacht, dass wir an den vier Seiten des Lenkrands vier verschiedene Farben raufkleben und anschließend die KI diese Farben und somit die Positon des Lenkrands erkennen lassen können. Die Kamera erfasst hierbei immer die obere Seite des Lenkrads. Jeder bestimmten Farbe ist eine bestimmte Bewegung zugeordnet.
 
+02.03.2021 : Heute war nach langem unsere erste Stunde in Präsenz und wir haben mit Herrn Buhl Rücksprache über unsere Idee gehalten. Im Anschluss ist uns klar geworden, dass der Umfang unserer Idee für den kurzen Zeitraum bis zur Abgabe etwas zu umfangreich ist. Daher sind wir gerade dabei auf einige Vorschläge von Herrn Buhl einzugehen. Besonders interessant klang dabei die Programmierung von Boids. Dazu werden wir uns in der nächsten Zeit informieren und damit wahrscheinlich einen neuen Projektweg einschlagen.
+
 
 
 
