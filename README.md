@@ -31,7 +31,9 @@ Mo, 16.12.2020 : Heute haben wir uns gemeinsam auf Youtube Videos rund ums Thema
 
 02.03.2021 : Heute war nach langem unsere erste Stunde in Präsenz und wir haben mit Herrn Buhl Rücksprache über unsere Idee gehalten. Im Anschluss ist uns klar geworden, dass der Umfang unserer Idee für den kurzen Zeitraum bis zur Abgabe etwas zu umfangreich ist. Daher sind wir gerade dabei auf einige Vorschläge von Herrn Buhl einzugehen. Besonders interessant klang dabei die Programmierung von Boids. Dazu werden wir uns in der nächsten Zeit informieren und damit wahrscheinlich einen neuen Projektweg einschlagen.
 
-04.03.2021 : https://www.inf-schule.de/programmierung/oopjava/anhang/greenfoot
+04.03.2021 : https://www.inf-schule.de/programmierung/oopjava/anhang/greenfoot Heute haben wir uns verschiedene Boids-Projekte und ihre Unterschiede angesehen. Außerdem haben wir uns die Basics von Greenfot durchgelesen
+
+05.03.2021 : Heute haben wir uns zum ersten Mal ans Programmieren mit Greenfoot gewagt. Dabei haben wir mit der grundlegenden Pfeiltastenbewegung angefangen. Die Problematik hierbei ist, dass wir noch nicht rausgefunden haben wie man eine Auf- und Ab- Bewegung programmiert.
 
 
 
