@@ -39,7 +39,7 @@ Mo, 16.12.2020 : Heute haben wir uns gemeinsam auf Youtube Videos rund ums Thema
 
 12.03.2021 : Heute haben wir die ganze Stunde versucht unseren Actor (als Beispiel hier unsere Ameise) in die Welt, nachdem "Run" betätigt wurde, einzusetzen. Dies haben wir bis jetzt nicht geschafft, da der Name unseres Actors "ameise" nicht erkannt wird. Wir verstehen hierbei nicht den Grund für diesen Fehler. Wir haben auch bereits versucht, unsere Ameise als "ameise" nochmal zu definieren, obwohl diese Definition beim Erstellen des Actors direkt erstellt sein sollte.
 
-16.03.2021 : Heute haben wir hinbekommen, dass unser Actor beim Start des Spiels in die Weltgesetzt wird. Unser erster Gedanke war hierbei von der letzten Stunde richtig. Wir mussten tatsächlich die Ameise erstmal als solch eine definieren und sozusagen erschaffen. Danach wurde der addObject-Befehl auch angenommen. 
+16.03.2021 : Heute haben wir hinbekommen, dass unser Actor beim Start des Spiels in die Welt gesetzt wird. Unser erster Gedanke von der letzten Stunde war hierbei richtig. Wir mussten tatsächlich die Ameise erstmal als solch eine definieren und sozusagen erschaffen. Danach wurde der addObject-Befehl auch angenommen. 
 Nachdem wir das hingekriegt haben, haben wir uns mit unserer Welt beschäftigt, die am Ende ja ein Labyrinth sein soll. Dazu haben wir uns folgendes Video angesehen : https://www.youtube.com/watch?v=g_6hnvQAC8M
 
 
