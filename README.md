@@ -42,6 +42,9 @@ Mo, 16.12.2020 : Heute haben wir uns gemeinsam auf Youtube Videos rund ums Thema
 16.03.2021 : Heute haben wir hinbekommen, dass unser Actor beim Start des Spiels in die Welt gesetzt wird. Unser erster Gedanke von der letzten Stunde war hierbei richtig. Wir mussten tatsächlich die Ameise erstmal als solch eine definieren und sozusagen erschaffen. Danach wurde der addObject-Befehl auch angenommen. 
 Nachdem wir das hingekriegt haben, haben wir uns mit unserer Welt beschäftigt, die am Ende ja ein Labyrinth sein soll. Dazu haben wir uns folgendes Video angesehen : https://www.youtube.com/watch?v=g_6hnvQAC8M
 
+18.03.2021 : https://www.google.com/imgres?imgurl=https%3A%2F%2Fbanner2.cleanpng.com%2F20180424%2Frfe%2Fkisspng-hedge-maze-labyrinth-puzzle-mural-5adfcb359242c4.8535022915246159895991.jpg&imgrefurl=https%3A%2F%2Fwww.cleanpng.com%2Fpng-hedge-maze-labyrinth-puzzle-mural-1504777%2F&tbnid=EUNnYUrz-WrEuM&vet=12ahUKEwjtzOWQubnvAhUM_qQKHeg2BIAQMygOegUIARDXAQ..i&docid=G5hjFstQLDWe6M&w=900&h=900&q=maze%20transparent%20background&hl=de&safe=strict&ved=2ahUKEwjtzOWQubnvAhUM_qQKHeg2BIAQMygOegUIARDXAQ
+https://www.google.com/imgres?imgurl=https%3A%2F%2Fpng.pngtree.com%2Felement_our%2Fpng%2F20190103%2Fmaze-line-black-icon-png_309317.jpg&imgrefurl=https%3A%2F%2Fpngtree.com%2Ffree-png-vectors%2Fmaze&tbnid=rj-wnQmW__PpxM&vet=12ahUKEwjtzOWQubnvAhUM_qQKHeg2BIAQMygPegUIARDZAQ..i&docid=SrnqauIQhi7F7M&w=360&h=360&q=maze%20transparent%20background&hl=de&safe=strict&ved=2ahUKEwjtzOWQubnvAhUM_qQKHeg2BIAQMygPegUIARDZAQ
+
 
 
 
