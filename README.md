@@ -48,6 +48,15 @@ Heute haben wir uns Labyrinthbilder aus dem Internet ausgesucht und als unsere W
 
 19.03.2021 : Heute haben wir den Ansatz von Herrn Buhl von letzer Stunde verfolgt. Dieser hat uns nämlich vorgeschlagen, Objekte zu platzieren auf den Balken, die wir durch das Einfügen des Bildes in die Worlddatei erhalten haben. Dazu haben wir verschiedene Größen an Barrieren generiert und setzen nun diese so auf die Balken, dass sie das Labyrinth darstellen. Anschlie0end können wir dann  beispielsweise mit dem Befehl ifTouching(kbW) den Spieler auf die Ausgangsposition zurücksetzen.
 
+23.03.2021 : Heute haben wir unsere Barrieren auf unser vorgefertigtes Labyrinth raufgesetzt, jedoch gab es immer wieder Komplikationen nach dem Speichern der Welt, da sich die Barrieren immer ziemlich weit verschoben haben. Herr Buhl hat uns gesagt, dass wir ein freies Labyrinth entwerfen sollen, da er die Hoffnung hat, dass die Balken dann konstant bleiben.
+
+24.03.2021 : Wir haben heute das Problem ausfindig gemacht, es handelte sich um ein Problem mit der Schreibweise der Position in der World-Datei, da beim Verschieben bzw. Anpassen der Position einzelner Barrieren nicht die neue Position, sondern auch der Verschiebungsprozess gespeichert wurden. Wir haben unsere ganzen Barriere-subclasses gelöscht und eine Klasse erstellt, mit der man individuell die Höhe und Breite einer Barriere anpassen kann. Anschließed ist uns eingefallen, dass wir, wenn wir ein Objekt platzieren und dieses speichern, lediglich die Koordinaten in unserem Code anpassen müssen und nicht jedes mal per Hand eine Variable für ein Objekt definieren müssen. 
+
+26.03.2021 : Heute haben wir unser Labyrinth fast vervollständigt, indem wir uns ein bestimmtes Muster ausgedacht haben. Dieses haben wir mit der in der letzten Stunde herausgefundenen Technik eingesetzt.
+
+
+
+
 
 
 
