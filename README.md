@@ -37,7 +37,7 @@ Mo, 16.12.2020 : Heute haben wir uns gemeinsam auf Youtube Videos rund ums Thema
 
 11.03.2021 : Heute haben wir uns weiterhin mit der Steuerung beschäftigt und sind dabei zuerst zu Problemen gekommen, da wir den Aufbau des Koordinatensystems in Greenfoot nicht richtig verstanden haben. Zuerst haben wir immer mit dem turnTowards-Befehl gearbeitet, jedoch war dieser nicht wirklich zielführend. Anschließend haben wir in der Dokumentation von Greenfoot den Befehl getRotation probiert, welche aber nicht hinterlegt war. Nachdem wir erneut nachgesehen haben, haben wir entdeckt, dass der richtige Befehl setRotation lautet. Nun kann unsere Figur mithilfe der "w"-Taste bewegt und mit den Pfeiltasten gelenkt werden. 
 
-![bsp BewegungGreenfoot](Images/BewegungGreenfoot.PNG "Screenshot von BewegungGreenfoot")
+![bsp BewegungGreenfoot](Images/BewegungGreenfoot.png "Screenshot von BewegungGreenfoot")
 
 12.03.2021 : Heute haben wir die ganze Stunde versucht unseren Actor (als Beispiel hier unsere Ameise) in die Welt, nachdem "Run" betätigt wurde, einzusetzen. Dies haben wir bis jetzt nicht geschafft, da der Name unseres Actors "ameise" nicht erkannt wird. Wir verstehen hierbei nicht den Grund für diesen Fehler. Wir haben auch bereits versucht, unsere Ameise als "ameise" nochmal zu definieren, obwohl diese Definition beim Erstellen des Actors direkt erstellt sein sollte.
 
