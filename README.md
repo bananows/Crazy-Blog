@@ -36,7 +36,9 @@ Mo, 16.12.2020 : Heute haben wir uns gemeinsam auf Youtube Videos rund ums Thema
 05.03.2021 : Heute haben wir uns zum ersten Mal ans Programmieren mit Greenfoot gewagt. Dabei haben wir mit der grundlegenden Pfeiltastenbewegung angefangen. Die Problematik hierbei ist, dass wir noch nicht rausgefunden haben wie man eine Auf- und Ab- Bewegung programmiert.
 
 11.03.2021 : Heute haben wir uns weiterhin mit der Steuerung beschäftigt und sind dabei zuerst zu Problemen gekommen, da wir den Aufbau des Koordinatensystems in Greenfoot nicht richtig verstanden haben. Zuerst haben wir immer mit dem turnTowards-Befehl gearbeitet, jedoch war dieser nicht wirklich zielführend. Anschließend haben wir in der Dokumentation von Greenfoot den Befehl getRotation probiert, welche aber nicht hinterlegt war. Nachdem wir erneut nachgesehen haben, haben wir entdeckt, dass der richtige Befehl setRotation lautet. Nun kann unsere Figur mithilfe der "w"-Taste bewegt und mit den Pfeiltasten gelenkt werden. 
+
 ![bsp GreenfootBewegung](images/GreenfootBewegung.png "Screenshot von Greenfootbewegung")
+
 12.03.2021 : Heute haben wir die ganze Stunde versucht unseren Actor (als Beispiel hier unsere Ameise) in die Welt, nachdem "Run" betätigt wurde, einzusetzen. Dies haben wir bis jetzt nicht geschafft, da der Name unseres Actors "ameise" nicht erkannt wird. Wir verstehen hierbei nicht den Grund für diesen Fehler. Wir haben auch bereits versucht, unsere Ameise als "ameise" nochmal zu definieren, obwohl diese Definition beim Erstellen des Actors direkt erstellt sein sollte.
 
 16.03.2021 : Heute haben wir hinbekommen, dass unser Actor beim Start des Spiels in die Welt gesetzt wird. Unser erster Gedanke von der letzten Stunde war hierbei richtig. Wir mussten tatsächlich die Ameise erstmal als solch eine definieren und sozusagen erschaffen. Danach wurde der addObject-Befehl auch angenommen. 
