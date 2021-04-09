@@ -59,6 +59,7 @@ Heute haben wir uns Labyrinthbilder aus dem Internet ausgesucht und als unsere W
 26.03.2021 : Heute haben wir unser Labyrinth fast vervollständigt, indem wir uns ein bestimmtes Muster ausgedacht haben. Dieses haben wir mit der in der letzten Stunde herausgefundenen Technik eingesetzt.
 
 09.04.2021 : Heute haben wir die letzten Mauern unseres Labyrinths fertiggesetzt. Im Anschluss haben wir einen neuen Actor, eine Rakete, erstellt und sie am Zielort unseres Labyrinths positioniert. In dem Moment, in welchem die Schildkröte die Rakete berührt, wird sie wieder an den Anfang gesetzt und der Spieler kann das Spiel erneut spielen.
+![bsp Projektfertig](Images/Projektfertig.png "Screenshot von Projektfertig")
 
 
 
